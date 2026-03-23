@@ -1,6 +1,6 @@
 # Learning RAG (Retrieval-Augmented Generation)
 
-A hands-on project for learning RAG fundamentals, built for portfolio and interview demonstrations.
+> **Note:** This is not a project I built — it is a personal learning repository I created to understand how RAG works from the ground up. The code, notebooks, and explanations here serve as a reference I can return to and build on in my work. If you're learning RAG too, feel free to use it the same way.
 
 ---
 
